@@ -136,5 +136,5 @@ We welcome contributions! Follow these steps:
 🔗 GitHubGist: [YourGitHubGist](https://gist.github.com/DavidSwider/fd81cae1e7e82ab5cb5f1fec34ae7b34)  
 ---
 
-This **README** provides a structured overview of the project.🚀
+This **README** provides a structured overview of the project 🚀
 
