@@ -133,8 +133,8 @@ We welcome contributions! Follow these steps:
 ## Contact
 📧 Email: Davidswider6@gmail.com  
 🔗 GitHub: [YourGitHubProfile](https://github.com/DavidSwider/GitHub-Action)    
-🔗 GitHubGist: [YourGitHubGist](https://github.com/DavidSwider/GitHub-Action)  
+🔗 GitHubGist: [YourGitHubGist](https://gist.github.com/DavidSwider/fd81cae1e7e82ab5cb5f1fec34ae7b34)  
 ---
 
-This **README** provides a structured overview of the project.🚀
+This **README** provides a structured overview of the project 🚀
 
